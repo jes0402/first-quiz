@@ -15,7 +15,13 @@
 # it. As always, there is a test suite that checks the result. It is in 
 # `question2_test.py.`
 
-swapper = None
+def swapper_tupla(tupla):
+  tupla_invertida = tupla[::-1]
+  return tupla_invertida
+
+swapper = swapper_tupla
 
 def run_swapper(list_of_tuples):
   return list(map(swapper, list_of_tuples))
+
+
