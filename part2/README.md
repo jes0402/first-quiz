@@ -17,7 +17,7 @@ the interface and behaves the way that the test suite in `Question6Test.java` ex
 You will need to have Maven installed. It is the compile and test system for this problem. 
 
 If you are on MacOS and have homebrew installed, you can install Maven with `brew install maven`. Otherwise, it 
-is available from the website: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+is available from the website: https://maven.apache.org/guides/getting-started/maven-in-five-c.html
 
 To run the test suite, from this directory, you can do:
 ```
